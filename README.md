@@ -6,6 +6,8 @@ Claude runs kane-cli; the mod reads what kane-cli leaves on disk and draws it: a
 
 ![The band while a test runs](guide/v2/band-running.png)
 
+**Using it:** the [user guide](USER_GUIDE.md): install, the band, the card in the chat, the pane, testing what Claude changed, assurance, evidence, commands, what it runs and sends, limits and troubleshooting. This is the page the plugin's listing links as its documentation.
+
 **Read more:** the [Field Guide](docs/index.html) (every band state, the pane, flows, use cases, guidelines, and a chaptered walkthrough video recorded with real runs: [docs/kane-qe-v2-tour.mp4](docs/kane-qe-v2-tour.mp4)) and [Explained simply](docs/explainer.html). Both are standalone pages: open them from a clone. [How v2 meets its design](guide/v2/design-coverage.md) lists every designed feature and screen and how it was checked.
 
 ## Install
